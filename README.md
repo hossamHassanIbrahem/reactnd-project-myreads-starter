@@ -1,3 +1,30 @@
+# structure
+this project 
+5 comonent 
+app
+    bookslist 
+        bookshelf
+        books
+    searchentry
+        books
+use api 
+# purpose
+filter books as user can use and filter his books to 
+wont to read and read and currently reading
+
+# Sequence of problem solving became a feature
+shelf place
+Update on selection 
+find it df ofus loop 
+if 
+and try switch 
+map filter
+class Component   and swich to Function components 
+mark the type or previostype previous self type 
+when user ned to add to any type 
+
+
+
 # MyReads Project
 
 This is the starter template for the final assessment project for Udacity's React Fundamentals course. The goal of this template is to save you time by providing a static example of the CSS and HTML markup that may be used, but without any of the React code that is needed to complete the project. If you choose to start with this template, your job will be to add interactivity to the app by refactoring the static code in this template.
